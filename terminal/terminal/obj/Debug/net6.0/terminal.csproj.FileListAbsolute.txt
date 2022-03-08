@@ -1,0 +1,15 @@
+E:\terminal\terminal\terminal\bin\Debug\net6.0\terminal.exe
+E:\terminal\terminal\terminal\bin\Debug\net6.0\terminal.deps.json
+E:\terminal\terminal\terminal\bin\Debug\net6.0\terminal.runtimeconfig.json
+E:\terminal\terminal\terminal\bin\Debug\net6.0\terminal.dll
+E:\terminal\terminal\terminal\bin\Debug\net6.0\terminal.pdb
+E:\terminal\terminal\terminal\obj\Debug\net6.0\terminal.csproj.AssemblyReference.cache
+E:\terminal\terminal\terminal\obj\Debug\net6.0\terminal.GeneratedMSBuildEditorConfig.editorconfig
+E:\terminal\terminal\terminal\obj\Debug\net6.0\terminal.AssemblyInfoInputs.cache
+E:\terminal\terminal\terminal\obj\Debug\net6.0\terminal.AssemblyInfo.cs
+E:\terminal\terminal\terminal\obj\Debug\net6.0\terminal.csproj.CoreCompileInputs.cache
+E:\terminal\terminal\terminal\obj\Debug\net6.0\terminal.dll
+E:\terminal\terminal\terminal\obj\Debug\net6.0\refint\terminal.dll
+E:\terminal\terminal\terminal\obj\Debug\net6.0\terminal.pdb
+E:\terminal\terminal\terminal\obj\Debug\net6.0\terminal.genruntimeconfig.cache
+E:\terminal\terminal\terminal\obj\Debug\net6.0\ref\terminal.dll
